@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Requena21&langs_count=6&layout=compact&theme=algolia&hide=HLSL,ShaderLab,ASP.NET,SCSS,Objective-C,CMake)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Requena21&langs_count=6&layout=compact&theme=algolia&hide=HLSL,ShaderLab,ASP.NET,SCSS,Objective-C,CMake)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Requena21&langs_count=6&layout=compact&theme=algolia&hide=HLSL,ShaderLab,ASP.NET,SCSS,Objective-C,CMake)](https://github.com/anuraghazra/github-readme-stats)
