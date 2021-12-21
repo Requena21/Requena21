@@ -1,4 +1,4 @@
-##### Hi there 👋
+### Hi there 👋
 
 - 🔭 I’m currently studying on college
 - 🌱 I’m currently learning ...
