@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Requena21/Requena21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying on college
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+https://github-readme-stats.vercel.app/api?username=Requena21&include_all_commits=true&count_private=true&hide=stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Requena21&langs_count=6&layout=compact&theme=algolia&hide=HLSL,ShaderLab,ASP.NET,SCSS,Objective-C,CMake)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Requena21&langs_count=6&layout=compact&theme=algolia&hide=HLSL,ShaderLab,ASP.NET,SCSS,Objective-C,CMake)](https://github.com/anuraghazra/github-readme-stats)
