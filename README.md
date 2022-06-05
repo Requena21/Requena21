@@ -1,5 +1,5 @@
 ### Conóceme 
-Soy Alejandro Requena, actualmente estoy en el último curso de diseño y desarrollo de videojuegos en la universidad Rey Juan Carlos. En el futuro quiero estudiar el master de la misma universidad sobre realidad virtual, juegos e informática gráfica. Soy un apasionado de los videojuegos desde pequeño y además, me encanta el poder ayudar a los demás, por eso me gustaría dedicarme en el futuro a la investigación.
+Soy Alejandro Requena, actualmente estoy en el último curso de diseño y desarrollo de videojuegos en la universidad Rey Juan Carlos.Soy un apasionado de los videojuegos desde pequeño y además, me encanta el poder ayudar a los demás, por eso me gustaría dedicarme en el futuro a la investigación relacionada con videojuegos y sanidad, aunque antes me gustaría trabajar en diversos proyectos.
 
 
 ### Estadísticas
